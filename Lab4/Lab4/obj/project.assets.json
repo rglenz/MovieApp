@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/raymondlenz/Desktop/CSC409/Lab4/Lab4/Lab4/Lab4.csproj",
+      "projectUniqueName": "/Users/raymondlenz/Desktop/MovieApp/Lab4/Lab4/Lab4.csproj",
       "projectName": "Lab4",
-      "projectPath": "/Users/raymondlenz/Desktop/CSC409/Lab4/Lab4/Lab4/Lab4.csproj",
+      "projectPath": "/Users/raymondlenz/Desktop/MovieApp/Lab4/Lab4/Lab4.csproj",
       "packagesPath": "/Users/raymondlenz/.nuget/packages/",
-      "outputPath": "/Users/raymondlenz/Desktop/CSC409/Lab4/Lab4/Lab4/obj/",
+      "outputPath": "/Users/raymondlenz/Desktop/MovieApp/Lab4/Lab4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/raymondlenz/.config/NuGet/NuGet.Config"

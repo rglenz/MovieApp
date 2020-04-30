@@ -12,7 +12,7 @@ namespace Lab4.Controllers
 
         public IActionResult Welcome(string name, int numTimes = 1)
         {
-            ViewData["Message"] = "My Name is " + name;
+            ViewData["Message"] = "Hello " + name;
             ViewData["NumTimes"] = numTimes;
 
             return View();
