@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{05CCC7EE-E20F-4428-B398-170E4EF51E4D}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lab4 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/Views/HelloWorld/Welcome.cshtml">
+    <Files>
+      <File FileName="Lab4/Controllers/HelloWorldController.cs" Line="4" Column="15" />
+      <File FileName="Lab4/Views/Shared/_Layout.cshtml" Line="13" Column="36" />
+      <File FileName="Lab4/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="Lab4/Views/HelloWorld/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Lab4/Views/HelloWorld/Welcome.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab4" expanded="True">
+            <Node name="Lab4" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True">
+                  <Node name="Welcome.cshtml" selected="True" />
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
