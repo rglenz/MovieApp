@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{A6F5D9C6-0D5C-4B86-B152-68E84005BFA6}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MVCMovie/Controllers/HelloWorldController.cs">
     <Files>
-      <File FileName="MVCMovie/Controllers/HelloWorldController.cs" Line="21" Column="1" />
+      <File FileName="MVCMovie/Controllers/HelloWorldController.cs" Line="19" Column="1" />
       <File FileName="MVCMovie/Startup.cs" Line="1" Column="1" />
       <File FileName="MVCMovie/Program.cs" Line="16" Column="1" />
     </Files>
@@ -26,9 +26,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/raymondlenz/Desktop/MovieApp/MVCMovie/MVCMovie/Controllers/HelloWorldController.cs" relfile="MVCMovie/Controllers/HelloWorldController.cs" line="20" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
